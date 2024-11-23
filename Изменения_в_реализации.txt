@@ -1,0 +1,6 @@
+    double minX = 0.0;
+    double maxX = 3.118;
+    double minY = 0.0;
+    double maxY = 3.118;
+
+Вот, это чтобы получить более маленькую область.
